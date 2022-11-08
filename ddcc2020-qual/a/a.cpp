@@ -22,7 +22,7 @@ int main(){
 	}
 	else if(y == 2)
 	{
-		ans+=200000;
+		ans+=20000;
 	}
 	else if(y == 3) 
 	{
